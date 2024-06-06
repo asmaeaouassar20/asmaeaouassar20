@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot , Angular**
 
-- ❤️ My youtube channel **https://www.youtube.com/@algostyle5707/playlists**
+- ❤️ My youtube channel :  **algostyle**
 
 
 <p align="left">Check out and discover my YouTube channel!
