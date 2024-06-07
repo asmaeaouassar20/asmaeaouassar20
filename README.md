@@ -1,5 +1,7 @@
 <h1 align="center">I'm ASMAE AOUASSAR</h1>
 <h3 align="center">A Computer Science Student</h3>
+<h6 align="center">consistency and discipline</h6>
+
 <img width="250" align="right" alt="Clean code always looks like it was written by someone who cares. — Robert C. Martin" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjd2Ymo2Z3dsaDdybHExZWYyb3Nsdmo4ZjgweTE2cDc5OXZmenhqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.webp">
 
 
