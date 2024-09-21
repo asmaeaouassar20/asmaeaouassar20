@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **Spring Boot , Angular**
+- 🌱 I’m currently learning **Spring Boot**
 
 - ❤️ My youtube channel :  **algostyle**
 
