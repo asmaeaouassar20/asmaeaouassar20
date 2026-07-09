@@ -21,7 +21,7 @@
 > <a href="https://www.youtube.com/@algostyle5707" target="_blank">
 >   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algostyle" height="30" width="40" />
 > </a>
-> <a href="TON_LIEN_YOUTUBE" target="_blank"><b>Subscribe to my channel</b></a>
+> <a href="https://www.youtube.com/@algostyle5707" target="_blank"><b>Subscribe to my channel</b></a>
 
 > #### 💼 Let's connect on **LinkedIn**
 > where I share my professional journey and network with like-minded people.
@@ -29,7 +29,7 @@
 > <a href="https://www.youtube.com/@algostyle5707" target="_blank">
 >   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 > </a>
-> <a href="TON_LIEN_LINKEDIN" target="_blank"><b>Connect with me</b></a>
+> <a href="https://www.youtube.com/@algostyle5707" target="_blank"><b>Connect with me</b></a>
 
  <br/> <br/>
 
