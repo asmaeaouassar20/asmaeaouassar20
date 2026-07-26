@@ -26,10 +26,10 @@
 > #### 💼 Let's connect on **LinkedIn**
 > where I share my professional journey and network with like-minded people.
 >
-> <a href="https://www.youtube.com/@algostyle5707" target="_blank">
+> <a href="https://www.linkedin.com/in/asmae-aouassar-2738b624b/" target="_blank">
 >   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 > </a>
-> <a href="https://www.youtube.com/@algostyle5707" target="_blank"><b>Connect with me</b></a>
+> <a href="https://www.linkedin.com/in/asmae-aouassar-2738b624b/" target="_blank"><b>Connect with me</b></a>
 
  <br/> <br/>
 
