@@ -15,14 +15,6 @@
  <br/> <br/>
 
 <div style="border : 1px solid red;">
- 
-> #### ❤️ My youtube channel :  **algostyle**
-> the place where I document my learning journey and growth.
->
-> <a href="https://www.youtube.com/@algostyle5707" target="_blank">
->   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algostyle" height="30" width="40" />
-> </a>
-> <a href="https://www.youtube.com/@algostyle5707" target="_blank"><b>Subscribe to my channel</b></a>
 
 > #### 💼 Let's connect on **LinkedIn**
 > where I share my professional journey and network with like-minded people.
@@ -31,6 +23,24 @@
 >   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 > </a>
 > <a href="https://www.linkedin.com/in/asmae-aouassar-2738b624b/" target="_blank"><b>Connect with me</b></a>
+<br/>
+ 
+> #### ❤️ My youtube channel :  **algostyle**
+> the place where I document my learning journey and growth.
+>
+> <a href="https://www.youtube.com/@algostyle5707" target="_blank">
+>   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="algostyle" height="30" width="40" />
+> </a>
+> <a href="https://www.youtube.com/@algostyle5707" target="_blank"><b>Subscribe to my channel</b></a>
+<br/>
+
+> #### 🧠 Test your programming skills with my quizzes
+>
+> <a href="https://www.youtube.com/@algostyle5707/posts" target="_blank">
+>   <img align="center" src="https://github.com/user-attachments/assets/0e2156b9-a080-4a1e-8174-ad66498d6b1e" alt="algostyle" height="30" width="80" />
+> </a>
+> <a href="https://www.youtube.com/@algostyle5707/posts" target="_blank"><b>Take the quizzes</b></a>
+
 
  <br/> <br/>
 
